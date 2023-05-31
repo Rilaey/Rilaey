@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rilaey" alt="rilaey" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/codingwithriley" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/codingwithriley?logo=twitter&style=for-the-badge" alt="https://twitter.com/codingwithriley" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://rileynewhart.com/](https://rileynewhart.com/)
 
 - 📝 Connect on LinkedIn [https://www.linkedin.com/in/riley-newhart-667b43128/](https://www.linkedin.com/in/riley-newhart-667b43128/)
