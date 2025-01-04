@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a full-stack web developer, I bring a passion for building robust and scalable web applications. With a strong foundation in both front-end and back-end development, I am a quick learner with a keen eye for detail. I deliver high-quality code that meets user requirements and exceeds expectations. My excellent communication and collaboration skills make me a great team player, eager to contribute my skills to create innovative solutions to complex problems.
+I’m a full-stack web developer who loves building web applications that are both reliable and scalable. I have experience working on both the front and back end, and I’m always eager to learn new things and refine my skills. I focus on writing clean, efficient code that not only works well but also makes users happy. I’m a team player who values good communication and collaboration, and I enjoy finding creative solutions to challenging problems.
 
 
 ## 🌐 Socials:
